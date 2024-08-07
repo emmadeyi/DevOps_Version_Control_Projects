@@ -9,18 +9,19 @@ o	Action: Go to GitHub, click on the "New" button, and create a repository calle
 2.	Clone the repository locally:
 o	Scenario: You want to start working on your blog website on your local machine.
 o	Action: Open your terminal and clone the repository using the command:
-bash
-git clone https://github.com/your-username/personal-blog.git
+
+`git clone https://github.com/your-username/personal-blog.git`
 3.	Make several commits with meaningful messages:
 o	Scenario: You begin by setting up the basic structure of your website, such as creating HTML, CSS, and JavaScript files.
 o	Action:
-bash
+```
 git add index.html
 git commit -m "Add initial HTML structure"
-
+```
+```
 git add styles.css
 git commit -m "Add CSS for homepage layout"
-
+```
 git add script.js
 git commit -m "Add JavaScript for interactive features"
 4.	Create and merge branches:
