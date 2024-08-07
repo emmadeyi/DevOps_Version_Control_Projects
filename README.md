@@ -60,3 +60,11 @@ o	Action:
 ```
 git push origin main
 ```
+
+This project includes various resources and documentation.
+
+## Documentation
+
+You can find more detailed documentation in the following PDF:
+
+[Click here to view the documentation](./01.pdf)
